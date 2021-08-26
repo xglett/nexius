@@ -1,2 +1,1 @@
-# nexus
-i mint Nexius
+# nexius
